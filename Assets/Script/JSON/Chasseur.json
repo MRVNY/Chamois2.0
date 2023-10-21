@@ -1,0 +1,686 @@
+{
+    "DonneurInfo1" : {
+        "3" : {
+            "text" : "Lequel de ces animaux, tout comme le chasseur, permet la régulation du gibier ?",
+        "choices" : {
+            "3.1" : "Ours",
+            "3.2" : "Puma",
+            "3.3" : "Loup"
+        }
+        },
+        "3.1" : {
+            "text" : "Mauvaise réponse..."
+        },
+        "3.2" : {
+            "text" : "Mauvaise réponse..."
+        },
+        "3.3" : {
+            "hint" : "loupRegulation",
+            "text" : "Bonne réponse !"
+        },
+        "3.0" : {
+            "text" : "Chez les chevreuils, la femelle pèse en moyenne 24kg et le mâle 26kg."
+        }
+    },
+
+        "DonneurInfo2" : {
+        "3" : {
+            "text" : "Est-ce que tu sais quelle est l'utilité du chasseur pour les espèces ? \n1 - Leur faire comprendre la valeur de la vie \n2 - Réguler les espèces",
+        "choices" : {
+            "3.1" : "1",
+            "3.2" : "2"
+        }
+        },
+        "3.1" : {
+            "text" : "Oups, tu as donné la mauvaise réponse..."
+        },
+        "3.2" : {
+            "hint" : "utiliteChasse",
+            "text" : "C'était évident !"
+        },
+        "3.0" : {
+            "text" : "Dans le Massif des Bauges, vous pouvez trouver des prédateurs, comme des loups, lynxs, vautours, renards ou même des aigles."
+        }
+    },
+
+        "DonneurInfo3" : {
+        "3" : {
+            "text" : "En tant que chasseur, tu devrais savoir à quoi sert un télémètre non ? \n1 - Regarder Netflix \n2 - Estimer la distance d'une cible",
+        "choices" : {
+            "3.1" : "1",
+            "3.2" : "2"
+        }
+        },
+        "3.1" : {
+            "text" : "J'imagine que la chasse n'est pas vraiment ta vocation..."
+        },
+        "3.2" : {
+            "hint" : "chasseurTelemetre",
+            "text" : "Je suis rassuré, tes connaissances sur la chasse sont impressionnantes !"
+        },
+        "3.0" : {
+            "text" : "La période de chasse du chamois est de septembre à février, il existe une période d'interdiction fin novembre, pendant la période de rut."
+        }
+    },
+
+        "DonneurInfo4" : {
+        "3" : {
+            "text" : "Et voici, la question à 1 million... \nQuel animal n'existe pas dans le massif des Bauges ?",
+        "choices" : {
+            "3.1" : "Gazelle",
+            "3.2" : "Sanglier",
+            "3.3" : "Tétras lyre"
+        }
+        },
+        "3.1" : {
+            "hint" : "faunePresente",
+            "text" : "Le million !!"
+        },
+        "3.2" : {
+            "text" : "Vous repartez les mains vides..."
+        },
+        "3.3" : {
+            "text" : "Vous repartez les mains vides..."
+        },
+        "3.0" : {
+            "text" : "Un quota de chamois prélevable est défini par communes."
+        }
+    },
+
+        "DonneurInfo5" : {
+        "3" : {
+            "text" : "Combien pèse une femelle chamois ?",
+        "choices" : {
+            "3.1" : "26kg",
+            "3.2" : "29kg",
+            "3.3" : "32kg"
+        }
+        },
+        "3.1" : {
+            "text" : "Bonne réponse ! \nEt le mâle ?",
+        "choices" : {
+            "3.1.1" : "31kg",
+            "3.1.2" : "35kg",
+            "3.1.3" : "39kg"
+        }
+        },
+        "3.2" : {
+            "text" : "Non..."
+        },
+        "3.3" : {
+            "text" : "Et non..."
+        },
+        "3.1.1" : {
+            "text" : "Mais non..."
+        },
+        "3.1.2" : {
+            "text" : "Non..."
+        },
+        "3.1.3" : {
+            "hint" : "poidsChamois",
+            "text" : "C'est juste !"
+        },
+        "3.0" : {
+            "text" : "Les chamois ont pour habitude de vivre dans les alpages."
+        }
+    },
+
+        "DonneurInfo6" : {
+        "3" : {
+            "text" : "Quel comportement adopte le chamois avec les autres chamois ?",
+        "choices" : {
+            "3.1" : "Sociable",
+            "3.2" : "Solitaire"
+        }
+        },
+        "3.1" : {
+            "hint" : "sociabiliteChamois",
+            "text" : "Vrai"
+        },
+        "3.2" : {
+            "text" : "Faux"
+        },
+        "3.0" : {
+            "text" : "En termes de sociabilité, le chamois a pour habitude d'être social et grégaire."
+        }
+    },
+
+        "DonneurInfo7" : {
+        "3" : {
+            "text" : "Sauras-tu répondre à cela : \nQuel régime adopte le chamois ?",
+        "choices" : {
+            "3.1" : "Cueillir",
+            "3.2" : "Brouter",
+            "3.3" : "Les deux"
+        }
+        },
+        "3.1" : {
+            "text" : "Eh non !"
+        },
+        "3.2" : {
+            "text" : "Non, pas seulement !"
+        },
+        "3.3" : {
+            "hint" : "regimeChamois",
+            "text" : "Eh oui !"
+        },
+        "3.0" : {
+            "text" : "Pour se nourrir, le chamois va cueillir ou bien brouter sa nourriture."
+        }
+    },
+
+        "DonneurInfo8" : {
+        "3" : {
+            "text" : "Je suis sûre que tu vas te tromper... Hihihi... \nQUESTION ! \nDans quel milieu ont pour habitude de vivre les chamois ?",
+        "choices" : {
+            "3.1" : "Forêts",
+            "3.2" : "Alpages",
+            "3.3" : "Les Deux"
+        }
+        },
+        "3.1" : {
+            "text" : "J'en étais sûre, tu t'es trompé(e) !"
+        },
+        "3.2" : {
+            "hint" : "habitatChamois",
+            "text" : "IMPOSSIBLE !! TU AS TROUVÉ !!"
+        },
+        "3.3" : {
+            "text" : "C'est faux, je te l'avais bien dit !!"
+        },
+        "3.0" : {
+            "text" : "Chez les chamois, la femelle pèse en moyenne 26kg et le mâle 39kg."
+        }
+    },
+
+        "DonneurInfo9" : {
+        "3" : {
+            "text" : "Sauras-tu répondre à ma question... Attention, cette question est difficile! \nAlors, voici la question : Par quoi le quota de chamois prélevables est-il défini ?",
+        "choices" : {
+            "3.1" : "Par Chasseur.",
+            "3.2" : "Par Foyer.",
+            "3.3" : "Par Commune."
+        }
+        },
+        "3.1" : {
+            "text" : "Faux"
+        },
+        "3.2" : {
+            "text" : "Faux"
+        },
+        "3.3" : {
+            "hint" : "regulationChasseChamois",
+            "text" : "Bonne réponse !"
+        },
+        "3.0" : {
+            "text" : "Dans le Massif des Bauges, vous pouvez trouver sangliers, cerfs, mouflons, lagopèdes, tétras lyre, lièvres, chevreuils et chamois."
+        }
+    },
+
+        "DonneurInfo10" : {
+        "3" : {
+            "text" : "Selon toi, combien pèse une femelle chez le chevreuil ?",
+        "choices" : {
+            "3.1" : "20kg",
+            "3.2" : "24kg",
+            "3.3" : "28kg"
+        }
+        },
+        "3.1" : {
+            "text" : "C'est faux..."
+        },
+        "3.2" : {
+            "text" : "Bonne réponse ! \nEt le mâle ?",
+        "choices" : {
+            "3.2.1" : "26kg",
+            "3.2.2" : "30kg",
+            "3.2.3" : "34kg"
+        }
+        },
+        "3.3" : {
+            "text" : "C'est faux..."
+        },
+        "3.2.1" : {
+            "hint" : "reponsePoidsChevreuil",
+            "text" : "Bonne réponse ! Bien joué !"
+        },
+        "3.2.2" : {
+            "text" : "Faux ! "
+        },
+        "3.2.3" : {
+            "text" : "Faux ! "
+        },
+        "3.0" : {
+            "text" : "Pour chasser, le chasseur utilise un télémètre, afin d'estimer la distance à laquelle se trouve une cible, et d'adapter son matériel en fonction."
+        }
+    },
+
+        "DonneurInfo11" : {
+        "3" : {
+            "text" : "Selon toi, quel prédateur ne trouveras-tu pas dans le Massif des Bauges",
+        "choices" : {
+            "3.1" : "Loup",
+            "3.2" : "Lynx",
+            "3.3" : "Ours"
+        }
+        },
+        "3.1" : {
+            "text" : "Faux !"
+        },
+        "3.2" : {
+            "text" : "Faux !"
+        },
+        "3.3" : {
+            "hint" : "predateursPresents",
+            "text" : "Bonne réponse ! Bien joué !"
+        },
+        "3.0" : {
+            "text" : "La chasse est un loisir, qui n'a pas que pour but de chasser pour manger, elle a aussi pour but de réguler les espèces."
+        }
+    },
+
+        "DonneurInfo12" : {
+        "3" : {
+            "text" : "Sais-tu à quelle période il y a une interruption de la chasse au chamois, cette dernière durant de septembre à février ?",
+        "choices" : {
+            "3.1" : "Novembre",
+            "3.2" : "Décembre",
+            "3.3" : "Janvier"
+        }
+        },
+        "3.1" : {
+            "hint" : "periodeChasse",
+            "text" : "Bonne réponse ! Bien joué !"
+        },
+        "3.2" : {
+            "text" : "Ce n'est pas la bonne réponse..."
+        },
+        "3.3" : {
+            "text" : "C'est inexact !"
+        },
+        "3.0" : {
+            "text" : "Le loup, tout comme le chasseur, permet la régulation des populations de gibier."
+        }
+    },
+
+        "DonneurInfo1bis" : {
+        "3" : {
+            "text" : "Chez les chevreuils, la femelle pèse en moyenne 24kg et le mâle 26kg."
+        }
+        ,
+        "3.0" : {
+            "text" : "Chez les chevreuils, la femelle pèse en moyenne 24kg et le mâle 26kg."
+        }
+    },
+
+        "DonneurInfo2bis" : {
+        "3" : {
+            "text" : "Dans le Massif des Bauges, vous pouvez trouver des prédateurs, comme des loups, lynxs, vautours, renards ou des aigles."
+        }
+        ,
+        "3.0" : {
+            "text" : "Dans le Massif des Bauges, vous pouvez trouver des prédateurs, comme des loups, lynxs, vautours, renards ou des aigles."
+        }
+    },
+
+        "DonneurInfo3bis" : {
+        "3" : {
+            "text" : "La période de chasse du chamois est de septembre à février, il existe une période d'interdiction fin novemmbre, pendant la période de rut."
+        }
+        ,
+        "3.0" : {
+            "text" : "La période de chasse du chamois est de septembre à février, il existe une période d'interdiction fin novemmbre, pendant la période de rut."
+        }
+    },
+
+        "DonneurInfo4bis" : {
+        "3" : {
+            "text" : "Un quota de chamois prélevables est défini par commune."
+        }
+        ,
+        "3.0" : {
+            "text" : "Un quota de chamois prélevables est défini par commune."
+        }
+    },
+
+        "DonneurInfo5bis" : {
+        "3" : {
+            "text" : "Les chamois ont pour habitude de vivre dans les alpages."
+        }
+        ,
+        "3.0" : {
+            "text" : "Les chamois ont pour habitude de vivre dans les alpages."
+        }
+    },
+
+        "DonneurInfo6bis" : {
+        "3" : {
+            "text" : "En termes de sociabilité, le chamois a pour habitude d'être social et grégaire."
+        }
+        ,
+        "3.0" : {
+            "text" : "En termes de sociabilité, le chamois a pour habitude d'être social et grégaire."
+        }
+    },
+
+        "DonneurInfo7bis" : {
+        "3" : {
+            "text" : "Pour se nourrir, le chamois va cueillir ou bien brouter sa nourriture."
+        }
+        ,
+        "3.0" : {
+            "text" : "Pour se nourrir, le chamois va cueillir ou bien brouter sa nourriture."
+        }
+    },
+
+        "DonneurInfo8bis" : {
+        "3" : {
+            "text" : "Chez les chamois, la femelle pèse en moyenne 26kg et le mâle 39kg."
+        }
+        ,
+        "3.0" : {
+            "text" : "Chez les chamois, la femelle pèse en moyenne 26kg et le mâle 39kg."
+        }
+    },
+
+        "DonneurInfo9bis" : {
+        "3" : {
+            "text" : "Dans le Massif des Bauges, vous pouvez trouver sangliers, cerfs, mouflons, lagopèdes, tétras lyre, lièvres, chevreuils et chamois."
+        }
+        ,
+        "3.0" : {
+            "text" : "Dans le Massif des Bauges, vous pouvez trouver sangliers, cerfs, mouflons, lagopèdes, tétras lyre, lièvres, chevreuils et chamois."
+        }
+    },
+
+        "DonneurInfo10bis" : {
+        "3" : {
+            "text" : "Pour chasser, le chasseur utilise un télémètre, afin d'estimer la distance à laquelle se trouve une cible, et d'adapter son matériel en fonction."
+        }
+        ,
+        "3.0" : {
+            "text" : "Pour chasser, le chasseur utilise un télémètre, afin d'estimer la distance à laquelle se trouve une cible, et d'adapter son matériel en fonction."
+        }
+    },
+
+        "DonneurInfo11bis" : {
+        "3" : {
+            "text" : "La chasse est un loisir, qui n'a pas que pour but de chasser pour manger, elle a aussi pour but de réguler les espèces."
+        }
+        ,
+        "3.0" : {
+            "text" : "La chasse est un loisir, qui n'a pas que pour but de chasser pour manger, elle a aussi pour but de réguler les espèces."
+        }
+    },
+
+        "DonneurInfo12bis" : {
+        "3" : {
+            "text" : "Le loup, tout comme le chasseur, permet la régulation des populations de gibier."
+        }
+        ,
+        "3.0" : {
+            "text" : "Le loup, tout comme le chasseur, permet la régulation des populations de gibier."
+        }
+    },
+
+    "DonneurDeQuete" : {
+        "3" : {
+        "text": "Hey ! Vous êtes chasseur ?",
+        "choices" : {
+            "3.2" : "Non.",
+            "3.1" : "Oui !?"
+        }
+        },
+        "3.1" : {
+            "text" : "Super ! Un de mes amis garde forestier a besoin d'aide avec un animal malade. Seriez vous d'accord pour l'aider ?",
+        "choices" : {
+            "3.1.1" : "Je suis d'accord !",
+            "3.1.2" : "Je n'en ai vraiment pas le courage..."
+        }
+        },
+        "3.2" : {
+            "text" : "Ah mince, pourquoi cette arme alors !?"
+        },
+        "3.1.1" : {
+            "hint" : "quest,DonneurDeQuete,GardeForestier,Un Chamois Malade",
+            "text" : "Merci beaucoup !! Vous le trouverez facilement dans les alentours !"
+        },
+        "3.1.2" : {
+            "text" : "Je vois... Vous pouvez revenir plus tard si vous changez d'avis !"
+        },
+        "Un Chamois au comportement étonnant" : {
+            "text": "Hey ! C'est vous qui nous avez aidé pour le chamois malade?",
+        "choices" : {
+            "Un Chamois au comportement étonnant.2" : "Non.",
+            "Un Chamois au comportement étonnant.1" : "Oui..."
+        }
+        },
+        "Un Chamois au comportement étonnant.1" : {
+            "text": "On nous a signalé un chamois qui se comporte bizarrement. Il faudrait le débusquer et l'endormir pour étude scientifique.",
+            "choices" : {
+                "Un Chamois au comportement étonnant.1.1" : "D'accord, je vais essayer.",
+                "Un Chamois au comportement étonnant.1.2" : "Non, ça me parait difficile."
+            } 
+        },
+        "Un Chamois au comportement étonnant.2" : {
+            "text": "Ah désolé, je ne suis pas du tout physionomiste...",
+            "choices" : {
+                "Un Chamois au comportement étonnant.2.1" : "Heu...il n'y a pas de problème, au revoir."
+                }
+        },
+        "Un Chamois au comportement étonnant.2.1" : {
+            "text": "Passez une bonne journée!"
+        },
+        "Un Chamois au comportement étonnant.1.1" : {
+            "text": "Merci! Voici des munitions adaptées. Apparemment, il erre tout seul au Nord du Massif",
+            "choices" : {
+                "Un Chamois au comportement étonnant.1.1.1" : "Ok, je vais faire de mon mieux."
+                }
+        
+        },
+        "Un Chamois au comportement étonnant.1.2" : {
+            "text": "Je comprends...N'hésitez pas à revenir si vous changez d'avis."
+        },
+        "Un Chamois au comportement étonnant.1.1.1": {
+            "text": "Génial. Bon courage!"
+        },
+        "asked" : {
+            "text" : "Ouvre tes notes pour savoir où aller ou questionne des personnages..."
+        }
+    },
+
+    "GardeForestier" : {
+        "Un Chamois Malade" : {
+            "text" : "Bien le bonjour ! Qu'est ce qui vous amène ?",
+        "choices" : {
+            "Un Chamois Malade.1" : "Votre ami m'envoie vous aider !",
+            "Un Chamois Malade.2" : "J'sais pas trop, j'ai l'impression que vous avez un problème..."
+        }
+        },
+        "Un Chamois Malade.1" : {
+            "text" : "Vraiment ? Bien. Un randonneur nous a informé de la présence d'un animal semblant vraiment malade, il faudrait en apprendre plus.",
+            "choices" : {
+            "Un Chamois Malade.1.1" : "Comment le reconnaître ?"
+            }
+        },
+        "Un Chamois Malade.2" : {
+            "text" : "Hum oui, c'est exact. Un problème animalier compliqué..."
+        },
+        "Un Chamois Malade.1.1" : {
+            "hint" : "quest,GardeForestier,Randonneur,Un Chamois Malade",
+            "text" : "J'ai cru comprendre que sa maladie rendait sa peau rougeâtre..."
+        },
+        "asked" : {
+            "text" : "Ouvre tes notes pour savoir où aller."
+        },
+        "Un Chamois mal en point" : {
+            "text" : "Oh là là. J'ai un nouveau problème avec un chamois...",
+            "choices" : {
+                "Un Chamois mal en point.1" : "Voyons si je peux vous apporter mon aide!",
+                "Un Chamois mal en point.2" : "Eh bien, vous cumulez les problèmes, je préfère passer mon chemin..."
+            }
+        },
+        "Un Chamois mal en point.2" : {
+            "text" : "Oui...ce sont des animaux magnifiques mais fragiles!"
+        },
+        "Un Chamois mal en point.1" : {
+            "text" : "Le problème est simple, il y a un chamois agé qui devient dangereux pour son troupeau...",
+            "choices" : {
+                "Un Chamois mal en point.1.1" : "Pouvez-vous m'en dire un peu plus?",
+                "Un Chamois mal en point.1.2" : "Ok, c'est clair. Je vais me débrouiller..."
+            }
+        },
+        "Un Chamois mal en point.1.1" : {
+            "text": "La seule chose que je sais est qu'il est de couleur foncée..."
+        },
+        "Un Chamois mal en point.1.2" : {
+            "text": "Merci bien! Apparemment il a une robe quasi noire."
+        },
+        "3" : {
+            "text" : "Vous savez, il y a deux types de chasseurs..."
+        }
+    },
+    "Randonneur" : {
+        "Un Chamois Malade" : {
+            "text" : "Je me demande bien quelle randonnée je vais faire aujourd'hui...",
+            "choices" : {
+            "Un Chamois Malade.1" : "Excusez-moi ?!"
+            }
+        },
+        "Un Chamois Malade.1" : {
+            "text" : "Hein !? Euuuh... que voulez-vous ?",
+            "choices" : {
+            "Un Chamois Malade.1.1" : "Auriez-vous des informations sur l'animal malade ?"
+            }
+        },
+        "Un Chamois Malade.1.1" : {
+            "text" : "Cet animal est un chamois. Il semblerait qu'il présente des blessures béantes et infectées.",
+            "choices" : {
+            "Un Chamois Malade.1.1.1" : "Où se trouverait-il ?"
+            }
+        },
+        "Un Chamois Malade.1.1.1" : {
+            "hint" : "quest,Randonneur,Photographe,Un Chamois Malade",
+            "text" : "Il se trouve dans le massif où nous sommes actuellement. Cependant, je ne me rappelle plus où exactement... Sans doute à l'Est?"
+        },
+
+        "3" : {
+            "text" : "Pour votre santé, mangez 5 fruits et légumes par jour..."
+        },
+
+        "asked" : {
+            "text" : "Ouvre tes notes pour savoir où aller"
+        }
+    },
+    "Photographe" : {
+        "Un Chamois Malade" : {
+            "text" : "Quel panorama...",
+            "choices" : {
+            "Un Chamois Malade.1" : "En effet, est-ce que..."
+            }
+        },
+        "Un Chamois Malade.1" : {
+            "hint" : "quest,Photographe,,Un Chamois Malade",
+            "text" : "Vous cherchez des informations à propos du chamois blessé ? Il devrait se trouver du côté Est du Parc et au Nord d'ici !"
+        },       
+        "Une Chasse Photographique" : {
+            "text" : "J'ai vu deux photos magnifiques dans la Maison Faune Flore, est-ce vous qui les avez prises?",
+            "choices" : {
+            "Une Chasse Photographique.1" : "Oui...C'était à Pécloz et Chaurionde, il me semble. Il faut que je retrouve ces endroits pour voir l'évolution."
+            }
+        },
+        "Une Chasse Photographique.1" : {
+                    "hint" : "quest,Photographe,,Une Chasse Photographique",
+                    "text" : "Oh, si vous les retrouvez...n'hésitez pas à en refaire une!"
+        },
+        "asked" : {
+            "text" : "Ouvrir ton annuaire de la connaissance afin de découvrir ton potentiel neuronal caché, tu dois..."
+        },
+        "3" : {
+            "text" : "Que se passe-t-il si je prends une photo sous cet angle ?!"
+        }
+    },
+
+    "Papa" : {
+        "init" : {
+            "text" : "Coucou, ah ! Te voilà arrivée dans ce magnifique massif !",
+            "choices": {
+                "init.1": "Encore 1 minute que j'observe autour de moi !",
+                "init.2": "Bonjour !"
+            }
+        },
+
+        "init.1": {
+            "text": "Mais tu n'es pas emballée pour la premiere journée de ton stage de chasse ?",
+            "choices": {
+                "init.1.1": "Siiiii",
+                "init.1.2": "Bof"
+            }
+        },
+
+        "init.2": {
+            "text": "Bonjour ! Tu es prête pour ta premiere journée de ton stage de chasse ?",
+            "choices": {
+                "init.1.1": "Ouiiiii",
+                "init.1.2": "Bof"
+            }
+        },
+
+        "init.1.1": {
+            "text": "Haha, ça c'est ma fille ! \n\n\nTu veux que je te rappelle ce à quoi tu dois faire attention dans les Bauges ?",
+            "choices": {
+                "init.1.1.1": "Oui",
+                "init.1.1.2": "Non, ça va"
+            }
+        },
+
+        "init.1.2": {
+            "text": "Bon bah, c'est trop tard, je t'ai déjà inscrite. \n\n\nTu veux que je te rappelle ce à quoi tu dois faire attention dans les Bauges ?",
+            "choices": {
+                "init.1.1.1": "Oui",
+                "init.1.1.2": "Non, ça va"
+            }
+        },
+
+        "init.1.1.1" : {
+            "text" : "En tant que chasseuse, ton objectif principal est d'aider à la régulation des espèces. \n\n\nN'hésite pas à converser avec tous les personnages afin d'obtenir des informations des quêtes de chasse. \n\n\nCapiche ?",
+            "choices" : {
+                "init.1.1.1.1" : "Ca-quoi ?",
+                "init.1.1.1.2" : "Capoche !",
+                "init.1.1.1.3" : "Heu non je pensais à autre chose, peux-tu répèter, stp."
+            }
+        },
+
+        "init.1.1.2" : {
+            "text" : "De toute façon, tu as ton manuel sur toi, consulte le si tu n'es pas sûre.",
+            "choices": {
+                "init.1.1.2.0": ""
+            }
+        },
+
+        "init.1.1.2.0": {
+            "text": "Bon courage!"
+        },
+
+        "init.1.1.1.1" : {
+            "text" : "C'est... du patois savoyard, ton papa était cool pendant une époque, haha.",
+            "choices": {
+                "init.1.1.2": "..."
+            }
+        },
+
+        "init.1.1.1.2" : {
+            "text" : "Haha pas mal.",
+            "choices" : {
+                "init.1.1.2" : ""
+            }
+        },
+
+        "init.1.1.1.3" : {
+            "text" : "Eh bien...pas grave :/",
+            "choices": {
+                "init.1.1.2": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "Randonneur" :
+    {
+        "randoEpion" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée de l'Épion.                      \nDifficulté : Facile       \nDénivelé : 500m     \nTemps : 3h30      \nLongueur : 7.5km",
+            "hints" : {"Lieu" : "Elle démarre tout au Sud et on y accède via le centre..."}
+        },
+        "randoBatterie" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée du Fort de la Batterie.          \nDifficulté : Facile       \nDénivelé : 650m     \nTemps : 3h30      \nLongueur : 5.6km",
+            "hints" : {}
+        },
+        "randoDentPortes" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée de la Dent des Portes.           \nDifficulté : Moyen        \nDénivelé : 900m     \nTemps : 7h        \nLongueur : 16km",
+            "hints" : {}
+        },
+        "randoGrandRoc" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée du Grand Roc.                    \nDifficulté : Moyen        \nDénivelé : 1140m    \nTemps : 4h30      \nLongueur : 11km",
+            "hints" : {}
+        },
+        "randoPointeChaurionde" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée de la Pointe de la Chaurionde.   \nDifficulté : Moyen        \nDénivelé : 1300m    \nTemps : 1 jour    \nLongueur : 16km",
+            "hints" : {}
+        },
+        "randoMorbier" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée du Mont Morbier.                 \nDifficulté : Moyen        \nDénivelé : 690m     \nTemps : 4h30      \nLongueur : 11km",
+            "hints" : {}
+        },
+        "randoNivolet" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée de la Croix du Nivolet.          \nDifficulté : Moyen        \nDénivelé : 620m     \nTemps : 4h        \nLongueur : 9km",
+            "hints" : {}
+        },
+        "randoGaloppaz" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée de la Pointe de la Galoppaz.     \nDifficulté : Moyen        \nDénivelé : 762m     \nTemps : 5h        \nLongueur : 11km",
+            "hints" : {}
+        },
+        "randoColombier" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée du Mont Colombier.               \nDifficulté : Difficile    \nDénivelé : 1500m    \nTemps : 10h       \nLongueur : 18km",
+            "hints" : {}
+        },
+        "randoArcalod" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée de la Pointe de l'Arcalod.       \nDifficulté : Difficile    \nDénivelé : 1220m    \nTemps : 1 jour    \nLongueur : 16.5km",
+            "hints" : {}
+        },
+        "randoTrelod" : {
+            "description" : "Informations sur la randonnée choisie :\nNom : Randonnée du Mont Trélod.                  \nDifficulté : Difficile    \nDénivelé : 1400m    \nTemps : 1 jour    \nLongueur : 14km",
+            "hints" : {}
+        }
+    },
+
+    "Chamois" : 
+    {
+        "Retrouver votre troupeau" : {
+            "description" : "Je me suis perdu dans les montagnes, je dois retrouver mon troupeau...",
+            "hints" : {
+                "NordEst" : "Le troupeau doit se trouver dans le Nord-Est."
+            },
+            "nextQuest" : "Survivre"
+        },
+
+        "Survivre" : {
+            "description" : "Ouf, j'ai retrouvé mon troupeau, maintenant il faut que je survive et grossisse encore 6 mois pour prendre des forces.",
+            "hints" : {
+                "Survivre" : "Je dois éviter les prédateurs et le manque de nourriture, causes de stress..."
+            },
+            "nextQuest" : "Survivre2"
+        },
+
+        "Survivre2" : {
+            "description" : "Ouf, j'ai survécu sur la période critique du début de ma vie. Maintenant il me faut tenir avec plein de forces jusqu'en ???",
+            "hints" : {
+                "Survivre2" : "Je dois absolument maintenir mon niveau de nourriture au plus haut et mon stress au plus bas pour pouvoir me reproduire et assurer la survie de mon espèce..."
+            },
+            "nextQuest" : "Survivre3"
+        },
+
+        "Survivre3" : {
+            "description" : "Enfin, j'ai survécu pendant 5 ans. C'est un challenge impressionnant!",
+            "hints" : {
+                "Survivre3" : "Je dois toujours maintenir mon niveau de nourriture au plus haut et mon stress au plus bas pour pouvoir me reproduire et assurer la survie de mon espèce..."
+            },
+            "nextQuest" : "Survivre4"
+        },
+
+        "Survivre4" : {
+            "description" : "Incroyable, j'ai survécu pendant 10 ans! Je suis un expert en survie.",
+            "hints" : {
+                "Survivre4" : "Je dois constamment maintenir mon niveau de nourriture au plus haut et mon stress au plus bas pour pouvoir me reproduire et assurer la survie de mon espèce..."
+            }
+        }
+    },
+    "Chasseur" :
+    {
+        "Un Chamois Malade" : {
+            "description" : "J'ai entendu parler d'un chamois qui est malade, qui pourrait devenir un danger pour les autres, je dois le trouver et l'éliminer",
+            "hints" : {
+                "DonneurDeQuete": "Je dois trouver un garde forestier dans les alentours pour plus d'informations",
+                "GardeForestier": "Apparemment, le chamois malade à la peau rougeâtre...",
+                "Randonneur": "Je dois partir à la recherche d'un chamois rouge probablement à l'Est du massif...",
+                "Photographe": "Apparemment, le chamois rougeâtre a été aperçu dans le Nord-Est, je devrais probablement m'y rendre..."
+            },
+            "participants" : "GardeForestier,Randonneur,Photographe",
+            "nextQuest" : "Une Chasse Photographique"
+        },
+        "Une Chasse Photographique" : {
+            "description" : "Lorsque la chasse est fermée, le chasseur en profite pour découvrir et photographier de jolis sites. Trouvez le photographe pour des conseils...",
+            "hints" : {
+                "Photographe": "Deux photos magnifiques ont été prises de promontoires des environs, je devrais essayer de trouver ces sites..." 
+            },
+            "participants" : "Photographe",
+            "nextQuest" : "Un Chamois au comportement étonnant"
+        },
+        "Un Chamois au comportement étonnant" : {
+            "description" : "Un chamois se trouve dans des endroits inhabituels pour son espèce, il faudrait le retrouver et l'endormir pour lui passer un collier de géolocalisation.",
+            "hints" : {
+                "DonneurDeQuete": "Il faut trouver un chamois clair avec une tâche blanche, dans le Nord du Massif..." 
+            },
+            "participants" : "DonneurDeQuete",
+            "nextQuest" : "Un Chamois mal en point"
+        },
+        "Un Chamois mal en point" : {
+            "description" : "Un chamois âgé devient agressif envers les petits, il faudrait le retrouver et l'éliminer.",
+            "hints" : {
+                "GardeForestier": "Un chamois couleur foncée doit être abattu car il devient nuisible pour le troupeau..." 
+            },
+            "participants" : "GardeForestier"
+        }
+    }
+}

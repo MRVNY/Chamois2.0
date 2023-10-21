@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Danger
+  - Nouriture
+  - ProiePrincipale
+  - AchievmentList
+  - Achievment
+  - Obstacle
+  - Faune
+  - Pnj
+  - PnjImportant
+  - BlockView
+  - Detector
+  - Terrain
+  - NPC
+  - Bullet
+  - Target
+  - Zone
+  - PhotoSite
+  - PhotoSiteSupp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Chamois
+  - Terrain
+  - Chasseur
+  - Randonneur
+  - RPGKit
+  - Bullet
+  - MapView
+  - FogOfWarMain
+  - FogOfWarSecondary
+  - FogOfWarCount
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Map
+  m_SortingLayers:
+  - name: Map
+    uniqueID: 397190345
+    locked: 0
+  - name: PlayerBehind
+    uniqueID: 2975778059
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 1525816817
+    locked: 0
+  - name: UI
+    uniqueID: 2849111583
+    locked: 0
+  - name: ElementsCarte
+    uniqueID: 3327162277
+    locked: 0
+  - name: Player
+    uniqueID: 3797379561
+    locked: 0
+  - name: FogOfWar
+    uniqueID: 3135663013
+    locked: 0
+  - name: Visual Novel
+    uniqueID: 1797918471
+    locked: 0

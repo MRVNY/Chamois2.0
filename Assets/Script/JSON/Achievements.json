@@ -1,0 +1,321 @@
+    {
+      "achievementinfos":
+      [
+        {
+          "joueur": "Chamois",
+          "nomAch": "Badge achèvement de quête",
+          "descAch": "1ère quête réussie!",
+          "points": 5,
+          "image": 9
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Alimentation I",
+          "descAch": "Manger 10 fois dans la même partie",
+          "points": 10,
+          "image": 0
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Connaissances en Chamois I",
+          "descAch": "Obtenir 5 entrées dans l'encyclopédie (hors quêtes)",
+          "points": 30,
+          "image": 2
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Survivre I",
+          "descAch": "Survivre 6 mois",
+          "points": 40,
+          "image": 1
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Connaissances en Chamois II",
+          "descAch": "Obtenir 10 entrées dans l'encyclopédie (hors quêtes)",
+          "points": 50,
+          "image": 2
+        },       
+        {
+          "joueur": "Chamois",
+          "nomAch": "Survivre II",
+          "descAch": "Survivre 1 an",
+          "points": 100,
+          "image": 1
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Alimentation II",
+          "descAch": "Manger 50 fois dans la même partie",
+          "points": 100,
+          "image": 0
+        },      
+        {
+          "joueur": "Chamois",
+          "nomAch": "Score Chamois I",
+          "descAch": "Finir une partie avec au moins 1 000 pts de score",
+          "points": 100,
+          "image": 11
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Score Chamois II",
+          "descAch": "Finir une partie avec au moins 3 000 pts de score",
+          "points": 300,
+          "image": 11
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Score Chamois III",
+          "descAch": "Finir une partie avec au moins 5 000 pts de score",
+          "points": 500,
+          "image": 11
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Survivre III",
+          "descAch": "Survivre 5 ans",
+          "points": 500,
+          "image": 1
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Survivre IV",
+          "descAch": "Survivre 10 ans",
+          "points": 999,
+          "image": 1
+        },                         
+        {
+          "joueur": "Chamois",
+          "nomAch": "Heureux Évènement I",
+          "descAch": "Faire naître 1 chamois (non activé)",
+          "points": 999,
+          "image": 7
+        },
+        {
+          "joueur": "Chamois",
+          "nomAch": "Heureux Évènement II",
+          "descAch": "Faire naître 2 chamois (non activé)",
+          "points": 500,
+          "image": 7
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Badge première quête!",
+          "descAch": "1ère quête obtenue!",
+          "points": 5,
+          "image": 9
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Badge Ami de la Nature I",
+          "descAch": "Nettoyer au moins 3 déchets",
+          "points": 10,
+          "image": 10
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Badge Ami de la Nature II",
+          "descAch": "10 déchets ramassés",
+          "points": 15,
+          "image": 10
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Prélèvement I",
+          "descAch": "Abattre la cible demandée",
+          "points": 20,
+          "image": 4
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Chasse Photographique I",
+          "descAch": "Effectuer 2 photos différentes",
+          "points": 25,
+          "image": 8
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Connaissances en Chasse I",
+          "descAch": "Obtenir 5 entrées dans l'encyclopédie (hors quêtes)",
+          "points": 30,
+          "image": 2
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Prélèvement II",
+          "descAch": "Abattre 2 cibles demandées",
+          "points": 50,
+          "image": 4
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Chasse Photographique II",
+          "descAch": "Effectuer 5 photos différentes",
+          "points": 50,
+          "image": 8
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Badge Ami de la Nature III",
+          "descAch": "25 déchets ramassés",
+          "points": 100,
+          "image": 10
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Prélèvement III",
+          "descAch": "Abattre 3 cibles demandées",
+          "points": 100,
+          "image": 4
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Connaissances en Chasse II",
+          "descAch": "Obtenir 10 entrées dans l'encyclopédie (hors quêtes)",
+          "points": 100,
+          "image": 2
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Chasse Photographique III",
+          "descAch": "Effectuer 15 photos différentes (non activée)",
+          "points": 100,
+          "image": 8
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Score Chasseur I",
+          "descAch": "Finir une partie avec au moins 250 de score",
+          "points": 10,
+          "image": 11
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Score Chasseur II",
+          "descAch": "Finir une partie avec au moins 1 000 de score",
+          "points": 100,
+          "image": 11
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Badge Ami de la Nature parfait!",
+          "descAch": "Tous les déchets ramassés!",
+          "points": 500,
+          "image": 10
+        },
+        {
+          "joueur": "Chasseur",
+          "nomAch": "Score Chasseur III",
+          "descAch": "Finir une partie avec au moins 5 000 de score",
+          "points": 0,
+          "image": 11
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Jambes Solides I",
+          "descAch": "Faire 1 randonnée",
+          "points": 10,
+          "image": 3
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Connaissances en Randonnée I",
+          "descAch": "Obtenir 5 entrées dans l'encyclopédie (hors quêtes)",
+          "points": 30,
+          "image": 2
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Jambes Solides II",
+          "descAch": "Faire 5 randonnées dans la même partie",
+          "points": 50,
+          "image": 3
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Randonneur Aguéri I",
+          "descAch": "Effectuer une randonnée difficile",
+          "points": 50,
+          "image": 6
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Ami de la Nature I",
+          "descAch": "Nettoyer 10 déchets",
+          "points": 20,
+          "image": 10
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Ami de la Nature II",
+          "descAch": "Nettoyer 20 déchets",
+          "points": 40,
+          "image": 10
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Randonnée Parfaite I",
+          "descAch": "Effectuer une randonnée avec au moins 5 000 points",
+          "points": 10,
+          "image": 5
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Randonnée Parfaite II",
+          "descAch": "Effectuer une randonnée avec au moins 7 500 points",
+          "points": 20,
+          "image": 5
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Randonnée Parfaite III",
+          "descAch": "Effectuer une randonnée avec au moins 9 000 points",
+          "points": 40,
+          "image": 5
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Randonnée Parfaite IV",
+          "descAch": "Effectuer une randonnée avec au moins 9 500 points",
+          "points": 60,
+          "image": 5
+        },       
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Connaissances en Randonnée II",
+          "descAch": "Obtenir toutes les entrées dans l'encyclopédie (11)",
+          "points": 250,
+          "image": 2
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Grand Explorateur!",
+          "descAch": "Découvrir au moins 78% de la carte",
+          "points": 500,
+          "image": 2
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Score Randonneur I",
+          "descAch": "Finir une partie avec au moins 1 000 pts de score",
+          "points": 100,
+          "image": 11
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Score Randonneur II",
+          "descAch": "Finir une partie avec au moins 3 000 pts de score",
+          "points": 300,
+          "image": 11
+        },
+        {
+          "joueur": "Randonneur",
+          "nomAch": "Score Randonneur III",
+          "descAch": "Finir une partie avec au moins 5 000 pts de score",
+          "points": 0,
+          "image": 11
+        }
+      ]
+    }
+      
